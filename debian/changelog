@@ -1,0 +1,13 @@
+k3b-defaults-kanotix (0.1.2) unstable; urgency=low
+
+  * fix lintian errors.
+  * improve packaging.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 29 Jul 2005 22:16:54 +0200
+
+k3b-defaults-kanotix (0.1-1) unstable; urgency=low
+
+  * Initial Release, based on Knoppix' k3b-defaults.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 21 Dec 2004 20:22:33 +0100
+

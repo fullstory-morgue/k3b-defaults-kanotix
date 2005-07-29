@@ -1,0 +1,16 @@
+[External Programs]
+cdrdao default=/usr/bin/cdrdao
+cdrdao user parameters=
+cdrecord default=/usr/bin/cdrecord
+cdrecord user parameters=
+mkisofs default=/usr/bin/mkisofs
+mkisofs user parameters=
+search path=/usr/bin/,/usr/local/bin/,/usr/sbin/,/bin/,/sbin/,/usr/X11R6/bin/,/usr/local/sbin/,/opt/schily/bin/
+tccat user parameters=
+tcdecode user parameters=
+tcextract user parameters=
+tcprobe user parameters=
+tcscan user parameters=
+transcode user parameters=
+vcdxbuild user parameters=
+vcdxgen user parameters=
