@@ -1,9 +1,16 @@
+k3b-defaults-kanotix (0.1.3) unstable; urgency=low
+
+  * remove cdbs auto-update feature.
+  * bump compat level to 5.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 11 Mar 2006 23:27:30 +0100
+
 k3b-defaults-kanotix (0.1.2) unstable; urgency=low
 
   * fix lintian errors.
   * improve packaging.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 29 Jul 2005 22:16:54 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 11 Mar 2006 23:27:27 +0100
 
 k3b-defaults-kanotix (0.1-1) unstable; urgency=low
 
