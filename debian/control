@@ -7,8 +7,9 @@ Standards-Version: 3.7.2
 
 Package: k3b-defaults-kanotix
 Architecture: all
-Depends: k3b
+Depends: k3b, wodim, mkisofs
 Provides: k3b-defaults
 Replaces: k3b-defaults
+Conflicts: cdrecord
 Description: Default settings file for k3b
  Do not bother the liev user with setting k3b defaults.
