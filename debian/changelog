@@ -1,6 +1,5 @@
 k3b-defaults-kanotix (0.1.4) unstable; urgency=low
 
-  * NOT RELEASED YET
   * fix lintian errors.
   * don't add /usr/X11R6/bin/ to search path.
   * conflict with cdrecord, depend on wodim.
